@@ -1,0 +1,1 @@
+This is an android prototype of a game called lian lian kan(连连看, picture matching, match it...) The goal of the game is to cancel everything by matching them. The pieces only cancel if they can be reached with 3 or less horizontal/vertical segments that do not touch the other pieces. [Chinese Wikipedia](https://zh.wikipedia.org/wiki/%E8%BF%9E%E8%BF%9E%E7%9C%8B)
